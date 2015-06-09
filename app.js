@@ -9,7 +9,7 @@ var config = {
   app_name: ‘Bitcoin Dice Roll’,
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfTEAgTAAAAALhN4VyXy_o4TJtWurowB6seemCq',  // <----- EDIT ME!
+  recaptcha_sitekey: '6LfaGggTAAAAAGGhz5kc0S8wDv-e2qi-_vm6io3x',  // <----- EDIT ME!
   redirect_uri: 'https://btcroll.github.io/',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
